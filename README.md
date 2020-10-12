@@ -4,7 +4,9 @@
 reactjs hook firebase
 
 Badwords functions:
+
 1/ auto change bardwords -> 🤐 I got BANNED for life for saying... ****: OK
+
 2/ ban user for creating msg: NG
 FB > Cloud Filestore > Security rules:
 
