@@ -8,8 +8,6 @@
 ![authentication](authentication.png)
 ### db
 ![db](db.png)
-### storage
-![storage](storage.png)
 ### hosting
 ![hosting](hosting.png)
 ### function
