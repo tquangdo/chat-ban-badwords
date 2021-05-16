@@ -14,9 +14,12 @@
 ![function](function.png)
 
 ## chat-ban-badwords
-Badwords functions:
-1. auto change bardwords -> `🤐 I got BANNED for life for saying... ****: OK`
-2. ban user for creating msg: NG
+### result at present
+1. auto change bardwords into `🤐 I got BANNED for life for saying... ****` **=> OK**
+2. ban user for creating msg **=> NG**
+### src code
+https://github.com/tquangdo/react-firebase-chat-ban-badwords/blob/main/functions/index.js#L8
+### db rule
 FB > Cloud Filestore > Security rules:
 ```js
     function canCreateMessage(){
